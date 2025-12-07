@@ -7,6 +7,9 @@ accelerate>=0.26.0
 # Runpod SDK
 runpod
 
+# HTTP client for warmup callback
+requests>=2.31.0
+
 # Additional dependencies
 tiktoken>=0.8.0
 fire>=0.5.0
